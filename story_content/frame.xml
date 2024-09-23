@@ -1170,6 +1170,8 @@
         <slidelink slideid="_player.6BRpnU39tFd" displaytext="Home" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6BRpnU39tFd.5xk0i5YuRVt" displaytext="Home" expand="false" type="slide" />
+            <slidelink slideid="_player.6BRpnU39tFd.5prKfn03Wtx" displaytext="Home2" expand="false" type="slide" />
+            <slidelink slideid="_player.6BRpnU39tFd.6EsWtNKLYup" displaytext="Home3" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5h8oKaRvHki" displaytext="Tujuan Pembelajaran" expand="true" type="slide">
@@ -1197,7 +1199,7 @@
         </slidelink>
         <slidelink slideid="_player.6B5AlX8hsmT" displaytext="Info Pengembang" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6B5AlX8hsmT.5k3OQA165bR" displaytext="Pengembang" expand="false" type="slide" />
+            <slidelink slideid="_player.6B5AlX8hsmT.5k3OQA165bR" displaytext="Info" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6eU8uM2ms19" displaytext="Petunjuk" expand="true" type="slide">
